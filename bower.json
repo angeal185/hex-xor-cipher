@@ -1,0 +1,26 @@
+{
+  "name": "hex-xor-cipher",
+  "description": "xor cipher for shift base encrypting and decrypting hexadecimal string",
+  "main": "index.js",
+  "authors": [
+    "ben eaves"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "hex",
+    "xor",
+    "encryption",
+    "decryption",
+    "hexadecimal",
+    "shift",
+    "cipher",
+    "xor-cipher",
+    "shift-cipher"
+  ],
+  "homepage": "https://github.com/angeal185/hex-xor-cipher",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}

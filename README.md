@@ -14,6 +14,17 @@ npm
 $ npm install hex-xor-cipher --save
 ```
 
+bower
+
+```sh
+$ bower install hex-xor-cipher --save
+```
+
+git
+```sh
+$ git clone git@github.com:angeal185/hex-xor-cipher.git
+```
+
 ### nodejs
 
 ```js
